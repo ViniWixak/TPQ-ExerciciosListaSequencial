@@ -16,7 +16,7 @@ int main()
     while (controleDeRepeticao == 's')
     {
         printf("\nInforme o codigo do pedido baseado no menu: \n\n");
-        printf("\nItem - codigo - preco");
+        printf("\nItem - codigo - preco -");
         printf("\nCachorro quente - 100 - 1,20");
         printf("\nBauru simples - 101 - 1,30");
         printf("\nBauru com ovo - 102 - 1,50");

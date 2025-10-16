@@ -5,7 +5,7 @@
 int main(){
     int contador = 0, numero, resultado;
 
-    printf("\nDigite um numero: \n");
+    printf("\nDigite um numero: positivo\n");
     scanf("%d", &numero);
 
     printf("\nA tabuada do numero %d eh", numero);

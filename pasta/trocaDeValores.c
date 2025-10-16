@@ -5,7 +5,7 @@ void trocaValor(int *a, int *b){ // a = 312312312, b = -867867324
     c = *a; // a = 312312312 / *a = 15 / c = 15
     *a = *b; // b = -867867324 / *b = 27 / *a = 27
     *b = c; // b = -867867324 / c = 15 / *b = 15
-    printf("\na:%d\nb:%d\n", *a, *b);
+    printf("\na:%d\nb:%d\n\n", *a, *b);
     *a = 832;
 }
 
