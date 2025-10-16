@@ -1,2 +1,6 @@
 # Executaveis
 *.exe 
+/output
+
+# Configuração do VSCode
+settings.json
